@@ -47,7 +47,7 @@
     "js-yaml": "^3.6.1",
     "mdast-util-heading-range": "^2.0.1",
     "nyc": "^8.1.0",
-    "remark-cli": "^2.0.0",
+    "remark-cli": "^2.1.0",
     "remark-preset-wooorm": "^1.0.0",
     "retext": "^4.0.0",
     "tape": "^4.0.0",
